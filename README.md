@@ -46,7 +46,7 @@ Create a `glive.json` file in working directory like below.
 #### 1. Downlaod the "Debian Pkg":
 
 ```sh
-wget curl https://github.com/clubcleaver/glive/raw/main/glive.deb
+wget curl https://github.com/clubcleaver/glive/raw/refs/heads/main/glive.deb
 sudo apt install ./glive.deb
 ```
 
@@ -65,13 +65,13 @@ glive
 #### 1. Downlaod the "Binary File":
 
 ```sh
-curl -O https://github.com/clubcleaver/glive/raw/main/glive
+curl -O https://github.com/clubcleaver/glive/raw/refs/heads/main/glive
 ```
 
 ###### OR
 
 ```
-wget curl https://github.com/clubcleaver/glive/raw/main/glive
+wget curl https://github.com/clubcleaver/glive/raw/refs/heads/main/glive
 ```
 
 #### 2. Change file permissions
