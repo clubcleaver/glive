@@ -14,6 +14,13 @@ My reason to write this, was being able to have the instructions in a file: as p
 - Easy installation.
 - No dependencies.
 
+## Screenshots
+### Manual Restart
+<img src="./screenshots/glive.png" alt="Screenshot" width="600" />
+
+### File Change
+<img src="./screenshots/fileChange.png" alt="Screenshot" width="600" />
+
 ## Example Config File:
 
 Create a `glive.json` file in working directory like below.
