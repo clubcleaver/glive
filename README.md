@@ -2,7 +2,7 @@
 
 ## Directory / File Watcher & Process Reloader
 
-My reason to write this, was being able to have the instructions in a file: as part of `git`, and just run a one word command, to start the server and start building. Since I would always forget the command, this saves me a lot of hassle, every day when setting up the dev environment. Also when running, multi threaded processes like `Fiber` or `Gin` servers, had problems closing properly with other solutions out there, and would use too much memory after a few restarts.
+`version 1.04`
 
 ## Features:
 
@@ -15,11 +15,19 @@ My reason to write this, was being able to have the instructions in a file: as p
 - No dependencies.
 
 ## Screenshots
-### Manual Restart
-<img src="./screenshots/glive.png" alt="Screenshot" width="600" />
+
+### Run Glive
+<img src="./screenshots/gliveStart.png" alt="Screenshot"/>
+
 
 ### File Change
-<img src="./screenshots/fileChange.png" alt="Screenshot" width="600" />
+<img src="./screenshots/ModDetected.png" alt="Screenshot"/>
+
+### Manual Restart
+<img src="./screenshots/manualRestart.png" alt="Screenshot"/>
+
+### Exit
+<img src="./screenshots/Exit.png" alt="Screenshot"/>
 
 ## Example Config File:
 
