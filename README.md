@@ -73,13 +73,13 @@ glive
 #### 1. Downlaod the "Binary File":
 
 ```sh
-curl -O https://github.com/clubcleaver/glive/blob/defc7e2476919d2eefc2de43df69134cd1808378/glive
+curl -O https://github.com/clubcleaver/glive/raw/refs/heads/main/glive
 ```
 
 ###### OR
 
 ```
-wget curl https://github.com/clubcleaver/glive/blob/defc7e2476919d2eefc2de43df69134cd1808378/glive
+wget curl https://github.com/clubcleaver/glive/raw/refs/heads/main/glive
 ```
 
 #### 2. Change file permissions
