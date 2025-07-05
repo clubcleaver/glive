@@ -54,7 +54,7 @@ Create a `glive.json` file in working directory like below.
 #### 1. Downlaod the "Debian Pkg":
 
 ```sh
-wget curl https://github.com/clubcleaver/glive/blob/defc7e2476919d2eefc2de43df69134cd1808378/glive.deb
+wget curl https://github.com/clubcleaver/glive/raw/refs/heads/main/glive.deb
 sudo apt install ./glive.deb
 ```
 
